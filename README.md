@@ -36,9 +36,6 @@
 <a href="https://www.linkedin.com/in/mrashis06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrashis06" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Ashis06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ashis06" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/mrashis06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mrashis06" height="30" width="40" /></a>
-<a href="https://devfolio.co/@ashis06" target="blank"><img align="center" src="https://api.iconify.design/simple-icons:devfolio.svg?color=white" alt="ashis06" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
