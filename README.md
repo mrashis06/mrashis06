@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://ash-techie.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Ashis+Kumar+Rai;AI%2FML+%26+MLOps+Enthusiast;Full+Stack+Developer;DevOps+Practitioner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&pause=400&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Ashis+Kumar+Rai;AI%2FML+%26+MLOps+Enthusiast;Full+Stack+Developer;DevOps+Practitioner" alt="Typing SVG" />
   </a>
 </h1>
 
