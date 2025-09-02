@@ -9,7 +9,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mrashis06&label=Profile%20views&color=0e75b6&style=flat" alt="mrashis06" /> 
   <a href="https://twitter.com/mrashis0603" target="blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/twitter/follow/mrashis0603?logo=twitter&style=for-the-badge" alt="https://www.linkedin.com/in/mrashis06/" />
+    <img src="https://img.shields.io/twitter/follow/mrashis0603?logo=twitter&style=for-the-badge" alt="mrashis0603" />
   </a> 
 </p>
 
