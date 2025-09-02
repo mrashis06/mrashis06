@@ -71,5 +71,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-achievements.vercel.app/api/?username=mrashis06&theme=tokyonight" alt="github achievements" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrashis06&theme=tokyonight" alt="mrashis06" /></a>
 </p>
