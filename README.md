@@ -8,7 +8,6 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mrashis06&label=Profile%20views&color=0e75b6&style=flat" alt="mrashis06" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-left: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=mrashis06" alt="mrashis06" /></a>
   <a href="https://twitter.com/mrashis0603" target="blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/twitter/follow/mrashis0603?logo=twitter&style=for-the-badge" alt="mrashis0603" />
   </a> 
@@ -67,4 +66,10 @@
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrashis06&theme=tokyonight" alt="mrashis06" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-achievements.vercel.app/api/?username=mrashis06&theme=tokyonight" alt="github achievements" />
 </p>
