@@ -64,7 +64,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrashis06&show_icons=true&locale=en&theme=tokyonight" alt="mrashis06" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrashis06&theme=tokyonight" alt="mrashis06" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=mrashis06&theme=tokyonight" alt="mrashis06" />
 </p>
 
 <br>
