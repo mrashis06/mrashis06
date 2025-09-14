@@ -21,6 +21,8 @@
 - 📝 I regularly write articles on **[https://medium.com/@ash-tech](https://medium.com/@ash-tech)**
 - 📫 How to reach me: **theashis0603@gmail.com**
 
+---
+
 <h3 align="left">📰 Recent Blog Posts</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -30,6 +32,8 @@
   <a href="https://leetcode.com/u/Ashis06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ashis06" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/mrashis06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mrashis06" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -55,20 +59,22 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<br>
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrashis06&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrashis06" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrashis06&show_icons=true&locale=en&theme=tokyonight" alt="mrashis06" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=mrashis06&theme=tokyonight" alt="mrashis06" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashis06&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrashis06&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrashis06&theme=tokyonight" alt="mrashis06" /></a>
+  <img src="https://streak-stats.demolab.com?user=mrashis06&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrashis06&theme=tokyonight" alt="GitHub Trophies" />
 </p>
