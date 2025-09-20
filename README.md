@@ -7,11 +7,13 @@
 <p align="center">Passionate about creating smart solutions, automating workflows, and deploying AI-driven applications efficiently.</p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mrashis06&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-  <a href="https://www.linkedin.com/in/mrashis06/" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect" />
+  <img src="https://komarev.com/ghpvc/?username=mrashis06&label=Profile%20Views&color=00C853&style=flat-square" alt="Profile views" /> 
+  
+  <a href="https://www.linkedin.com/in/mrashis06/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
   </a> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrashis06.mrashis06&left_color=0e75b6&right_color=blue" alt="visitors" />
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrashis06.mrashis06&left_color=FF6F00&right_color=D50000&style=flat-square" alt="visitors" />
 </p>
 
 ---
