@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mrashis06&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://camo.githubusercontent.com/b0e27fada937e4048957a484b68f51bbcf5ae7994df241ecb3824ff1f32139a6/68747470733a2f2f6e69727a6b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d72616a6565742d3034267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="GitHub Streak" />
 </p>
 
 <p align="center">
