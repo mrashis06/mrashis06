@@ -8,8 +8,8 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mrashis06&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-  <a href="https://twitter.com/mrashis0603" target="blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/twitter/follow/mrashis0603?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://www.linkedin.com/in/mrashis06/" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect" />
   </a> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mrashis06.mrashis06&left_color=0e75b6&right_color=blue" alt="visitors" />
 </p>
