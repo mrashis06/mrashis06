@@ -30,28 +30,13 @@
 
 ---
 
-### ⚡ Quick Overview
+### 🚀 About Me
 
-<table>
-  <tr>
-    <td width="50%">
-      
-   #### 🔭 Current Focus
-   - 🚀 Building **[SmartSetu](https://smart-setu.vercel.app/)**
-   - 🌱 Mastering **AI/ML & MLOps Pipelines**
-   - 💻 Portfolio: **[ash-techie.vercel.app](https://ash-techie.vercel.app/)**
-
-    </td>
-    <td width="50%">
-      
-   #### ✍️ Knowledge Sharing
-   - 📝 Articles on **[Medium](https://medium.com/@ash-tech)**
-   - 🎯 Problem Solving on **LeetCode** & **GFG**
-   - 📫 Reach out: **theashis0603@gmail.com**
-
-    </td>
-  </tr>
-</table>
+- 🔭 I’m currently working on **[SmartSetu](https://smart-setu.vercel.app/)**
+- 🌱 I’m currently learning and working with **AI/ML & MLOps**
+- 👨‍💻 All of my projects are available at **[ash-techie.vercel.app](https://ash-techie.vercel.app/)**
+- 📝 I regularly write articles on **[Medium](https://medium.com/@ash-tech)**
+- 📫 How to reach me: **theashis0603@gmail.com**
 
 ---
 
@@ -74,7 +59,7 @@
 
 ---
 
-### 🛠️ Tech Ecosystem
+### 🛠️ Languages and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -84,25 +69,17 @@
 
 ---
 
-<h3 align="center">📊 GitHub Analytics Dashboard</h3>
+<h3 align="center">📊 GitHub Analytics</h3>
 
-<!-- SIDE-BY-SIDE STATS -->
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=mrashis06&show_icons=true&theme=synthwave&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrashis06&layout=compact&theme=synthwave" width="48%" alt="Top Languages" />
 </p>
 
-<!-- STREAK -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mrashis06&theme=synthwave" width="97%" alt="GitHub Streak" />
 </p>
 
-<!-- TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrashis06&theme=synthwave&column=7&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-<!-- ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrashis06&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
