@@ -1,25 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=180&section=header&text=Ashis%20Kumar%20Rai&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
-</p>
-
-<p align="center">
   <a href="https://ash-techie.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=AI%2FML+%26+MLOps+Enthusiast;Full+Stack+Developer;DevOps+Practitioner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=%3C%2F%3E+Ashis+Kumar+Rai;AI%2FML+%26+MLOps+Engineer;Full+Stack+Developer;DevOps+Practitioner" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">Passionate about creating smart solutions, automating workflows, and deploying AI-driven applications efficiently.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrashis06&label=Views&color=00BFFF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_SMARTSETU-00F0FF?style=for-the-badge&logoColor=black" alt="Status" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrashis06&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge" alt="Profile views" />
   <a href="https://www.linkedin.com/in/mrashis06/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:theashis0603@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/Ashis06/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://ash-techie.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
