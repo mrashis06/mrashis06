@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working on **[SmartSetu](https://smart-setu.vercel.app/)**
 - 🌱 I’m currently learning and working with **AI/ML & MLOps**
-- 👨‍💻 All of my projects are available at **[ash-techie.vercel.app](https://ash-techie.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[ash-techie.vercel.app]([(https://ashisright.vercel.app/)])**
 - 📝 I regularly write articles on **[Medium](https://medium.com/@ash-tech)**
 - 📫 How to reach me: **theashis0603@gmail.com**
 
@@ -82,4 +82,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrashis06&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <i>Designed with ❤️ by Ashis Kumar Rai</i>
 </p>
