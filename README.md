@@ -53,19 +53,15 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashis06&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mrashis06&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrashis06&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrashis06&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mrashis06&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrashis06&theme=tokyonight" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
