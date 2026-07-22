@@ -1,15 +1,25 @@
-<h1 align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=180&section=header&text=Ashis%20Kumar%20Rai&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+</p>
+
+<p align="center">
   <a href="https://ash-techie.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+Ashis+Kumar+Rai;AI%2FML+%26+MLOps+Enthusiast;Full+Stack+Developer;DevOps+Practitioner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=AI%2FML+%26+MLOps+Enthusiast;Full+Stack+Developer;DevOps+Practitioner" alt="Typing SVG" />
   </a>
-</h1>
+</p>
 
 <p align="center">Passionate about creating smart solutions, automating workflows, and deploying AI-driven applications efficiently.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrashis06&label=Profile%20Views&color=00C853&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mrashis06&label=Views&color=00BFFF&style=flat-square" alt="Profile views" />
   <a href="https://www.linkedin.com/in/mrashis06/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:theashis0603@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/Ashis06/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
